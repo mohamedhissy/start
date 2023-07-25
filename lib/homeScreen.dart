@@ -39,7 +39,7 @@ class Home_Screen extends StatelessWidget{
     //   ),
 
       body: Container(
-        color: Colors.red,
+        color: Colors.blue,
       ),
 
     );
